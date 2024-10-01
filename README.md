@@ -1,16 +1,18 @@
-## Hi there 👋
+💻 Ingeniero de Sistemas | Desarrollador Fullstack Junior
 
-<!--
-**JSebastianBoada/JSebastianBoada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy un Desarrollador Fullstack con una sólida formación en desarrollo web y backend. Me especializo en crear soluciones digitales eficientes y responsivas, siempre enfocado en mejorar la experiencia del usuario y la funcionalidad de las aplicaciones.
 
-Here are some ideas to get you started:
+🚀 Tecnologías con las que trabajo:
+Frontend: HTML, CSS, Bootstrap
+Backend: PHP, SQL, JAVA
+Bases de datos: MySQL
+Otros conocimientos: Ciberseguridad básica, desarrollo web responsivo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actualmente aprendiendo:
+Frameworks modernos como Laravel y JavaScript (React/Node.js)
+Mejores prácticas de seguridad en aplicaciones web
+
+
+📫 Contacto:
+Email: jsboadasalazar@gmail.com 
+LinkedIn: https://www.linkedin.com/in/juan-sebastián-boada-salazar-a25923207/
