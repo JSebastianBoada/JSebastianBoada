@@ -1,7 +1,7 @@
-💻 Ingeniero de Sistemas | Desarrollador Fullstack Junior
+💻 Ingeniero de Sistemas | Programador Backend Junior
 <br>
 
-¡Hola! Soy un Desarrollador Fullstack con una sólida formación en desarrollo web y backend. Me especializo en crear soluciones digitales eficientes y responsivas, siempre enfocado en mejorar la experiencia del usuario y la funcionalidad de las aplicaciones.
+¡Hola! Soy un Desarrollador con una sólida formación en desarrollo web y backend. Me especializo en crear soluciones digitales eficientes y responsivas, siempre enfocado en mejorar la experiencia del usuario y la funcionalidad de las aplicaciones.
 <br>
 
 🚀 Tecnologías con las que trabajo:
