@@ -26,4 +26,4 @@ Mejores prácticas de seguridad en aplicaciones web
 <br>
 Email: jsboadasalazar@gmail.com 
 <br>
-LinkedIn: https://www.linkedin.com/in/juan-sebastián-boada-salazar-a25923207/
+LinkedIn: https://www.linkedin.com/in/jsboadasalazar/
