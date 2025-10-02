@@ -10,7 +10,7 @@ Frontend: HTML, CSS, Bootstrap
 <br>
 Backend: PHP, SQL, JAVA
 <br>
-Bases de datos: MySQL
+Bases de datos: MySQL, SQL SERVER, POSTGRESQL
 <br>
 Otros conocimientos: Ciberseguridad básica, desarrollo web responsivo
 <br>
