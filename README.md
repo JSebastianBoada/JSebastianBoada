@@ -1,25 +1,31 @@
-💻 Ingeniero de Sistemas | Programador Backend Junior
+### 💻 Juan Sebastián Boada | Full Stack & Backend Developer
 <br>
 
-¡Hola! Soy un Desarrollador con una sólida formación en desarrollo web y backend. Me especializo en crear soluciones digitales eficientes y responsivas, siempre enfocado en mejorar la experiencia del usuario y la funcionalidad de las aplicaciones.
+¡Hola! Soy un Ingeniero de Sistemas especializado en el desarrollo backend, la arquitectura de bases de datos relacionales y la creación de soluciones digitales a medida. Me apasiona construir sistemas desde cero, optimizar recursos y estructurar datos de forma eficiente, asegurando que el código sea tan robusto en el servidor como la experiencia del usuario final.
 <br>
 
-🚀 Tecnologías con las que trabajo:
+🚀 **Mi Stack Tecnológico:**
 <br>
-Frontend: HTML, CSS, Bootstrap
+**Backend & Frameworks:** PHP, Laravel, Java, WordPress (Custom Themes, Plugins, integraciones nativas)
 <br>
-Backend: PHP, SQL, JAVA
+**Bases de Datos:** PostgreSQL, SQL Server, MySQL (Migraciones, Query Builders, modelado relacional)
 <br>
-Bases de datos: MySQL, SQL SERVER, POSTGRESQL
+**Frontend:** JavaScript, HTML5, CSS3, Bootstrap
 <br>
-Otros conocimientos: Ciberseguridad básica, desarrollo web responsivo
+**Herramientas & Productividad:** Git/GitHub, automatización de flujos financieros y contables en Notion
 <br>
 
-🌱 Actualmente aprendiendo:
+🌱 **Actualmente construyendo y explorando:**
 <br>
-Frameworks modernos como Laravel y JavaScript 
+Desarrollo de sistemas de gestión ERP y aplicaciones en tiempo real.
 <br>
-Mejores prácticas de seguridad en aplicaciones web
+Rutas de aprendizaje técnico avanzado en SAP ABAP, DevOps y Machine Learning.
+<br>
+
+⚡ **Más allá del código:**
+<br>
+Cuando no estoy estructurando bases de datos, me encuentras optimizando el rendimiento térmico y los FPS de mi setup para unas partidas de Battlefield, investigando sobre DACs y audio de alta fidelidad, o de ruta haciéndole mantenimiento mecánico a mi moto.
+<br>
 
 
 📫 Contacto:
